@@ -1,0 +1,9 @@
+#logo-image h3 {
+   position: absolute;
+   top: 20px;
+   font-family: serif;
+   color: #fff;
+   font-size: 200%;
+   margin: 20px;
+   line-height: 100%;
+}

@@ -1,0 +1,132 @@
+/* =Buttons, footer, etc
+----------------------------------------------- */
+h1 {
+        font-size:150%
+}
+
+h2 {
+        font-size:140%;
+
+}
+
+h2indent {
+    font-size:140%;
+    margin-left: 20px;        
+}
+
+h3 {
+        font-size:130%
+}
+
+h3indent {
+    font-size:130%;
+    margin-left: 20px;        
+}
+
+h4 {
+        font-size:120%
+}
+
+h5 {
+        font-size:110%
+}
+
+h6 {
+    font-size:100%;
+}
+
+#tablist{
+        padding: 8px 0 0.6em;
+        margin:10 0;
+        text-align: center;
+        font: bold 12px Verdana;
+}
+
+#tablist li{
+        display: inline;
+        list-style: none;
+        margin: 0;
+        width:200px;
+}
+
+#tablist li a{
+        font-size: 12px;
+        font-weight: bold;
+        padding: 7px 1em;
+        margin-right: 0px;
+        border: 1px solid #778;
+        border-bottom: none;
+}
+
+#tablist li a:link, #tablist li a:visited{
+        color: #FFF;
+}
+
+#tablist li a.current{
+        background: lightyellow;
+}
+
+#tabcontentcontainer{
+        /* Insert Optional Height definition here to give all the content a unified height */
+        padding: 5px;
+        width: auto;
+        height:auto;
+        margin-left:50px;
+        margin-right:50px;
+        background-color:#ffffff;
+        font-family:"Verdana";
+}
+
+#supporters {
+  /* Insert Optional Height definition here to give all the content a unified height */
+  padding: 5px;
+  width: auto;
+  height:auto;
+  margin-left:50px;
+  margin-right:50px;
+  background-color:#ffffff;
+  font-family:"Verdana";
+}
+
+.tabcontent{
+        display:none;
+        margin: 2em auto;
+        max-width: 1000px;
+}
+
+a.tab {
+        background:black;
+}
+
+a.tab_active{
+        /* background:blue; */
+		background:#b12c08
+}
+
+a.tab_inactive{
+        background:gray;
+}
+
+#footer {
+        border-top: 1px solid #eee;
+        margin-top: 40px;
+}
+
+.discl {
+        padding: 5px 20px;
+        font-size:8pt;
+        border-bottom: 1px solid #eee;
+        color: #888;
+}
+
+.discl a {
+        color: #88f;
+}
+
+.tab { 
+    margin-left: 20px; 
+}
+
+.tabx2 {
+    margin-left: 40px;    
+}
